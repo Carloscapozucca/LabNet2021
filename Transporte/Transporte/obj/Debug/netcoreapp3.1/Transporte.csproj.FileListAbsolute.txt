@@ -1,0 +1,13 @@
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.exe
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.deps.json
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.json
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.dev.json
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\Carlo\source\repos\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csprojAssemblyReference.cache
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\Carlo\source\repos\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.genruntimeconfig.cache
